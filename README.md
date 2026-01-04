@@ -24,39 +24,40 @@ This project is actively being refined and optimized. The repository currently s
 ## ✨ Features Implemented
 
 ### 📋 Smart To-Do Lists
-![Todo Management](./screenshots/todo-view.png)
+![Todo Management](https://github.com/user-attachments/assets/c94ea888-89b5-48f6-b00d-6ee99ce835a6)
 - Task management with completion tracking
 - Priority label system
 - Clean, minimalist interface
 - Progress indicators (0/2 completed)
 
 ### 🌓 Beautiful Dark Mode
-![Dark Mode](./screenshots/dashboard-dark.png)
-![Light Mode](./screenshots/dashboard-light.png)
+![Dark Mode](https://github.com/user-attachments/assets/63799ae4-63b1-4aa4-aa93-1014bce2b82c)
+![Light Mode](https://github.com/user-attachments/assets/9f5828e9-526b-4e9a-b247-934db03a0a1f)
 - Seamless theme switching
 - Eye-friendly dark theme
 - Neumorphic design elements
 - Consistent styling across all components
 
 ### 🗂️ Intuitive Sidebar Navigation
-![Sidebar](./screenshots/sidebar.png)
+![Sidebar](https://github.com/user-attachments/assets/847eba14-80d5-46ae-8261-e41e70db0177)
 - Quick access to notes and to-do lists
 - User profile with avatar
 - Organized navigation
 - Trash management
 
 ### 🧠 Interactive Mind Maps
-![Mind Map Empty State](./screenshots/mindmap-empty.png)
-![Mind Map Canvas](./screenshots/mindmap-canvas.png)
+![Mind Map Empty State](https://github.com/user-attachments/assets/d97e3bc0-2b2f-4186-84a5-9e4109ecc536)
+![Mind Map Canvas](https://github.com/user-attachments/assets/85c0daa9-8926-4670-a949-4f8e01000188)
 - Visual idea organization with custom nodes
 - Interactive canvas for brainstorming
 - Theme customization
 - Import/Export functionality (JSON, PNG)
 
 ### 🎴 Flashcards with Spaced Repetition
-![Flashcard Decks](./screenshots/flashcards-deck.png)
-![Add Card](./screenshots/flashcards-add.png)
-![Create Deck](./screenshots/flashcards-create-deck.png)
+![Flashcard Decks](https://github.com/user-attachments/assets/a0bb0b47-5b28-486f-a535-e133113bf1d2)
+![Create Deck](https://github.com/user-attachments/assets/c1fa4d1c-7b0c-4e81-a893-5bb05491c048)
+![Add Card](https://github.com/user-attachments/assets/442314ff-fced-4d87-b595-3143b8af6d5d)
+
 - SRS (Spaced Repetition System) algorithm
 - Multiple card types (Basic, Cloze)
 - Tag organization system
