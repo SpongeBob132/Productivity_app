@@ -142,19 +142,6 @@ Backend Architecture:
 
 ---
 
-## 📱 Screenshots Gallery
-
-| Feature | Preview |
-|---------|---------|
-| **Dashboard (Light)** | ![Dashboard Light](./screenshots/dashboard-light.png) |
-| **Dashboard (Dark)** | ![Dashboard Dark](./screenshots/dashboard-dark.png) |
-| **Todo Management** | ![Todo](./screenshots/todo-view.png) |
-| **Mind Map Canvas** | ![Mind Map](./screenshots/mindmap-canvas.png) |
-| **Flashcard System** | ![Flashcards](./screenshots/flashcards-deck.png) |
-| **Navigation Sidebar** | ![Sidebar](./screenshots/sidebar.png) |
-
----
-
 ## 📊 Project Metrics
 
 - **Development Time:** 2+ months (ongoing)
